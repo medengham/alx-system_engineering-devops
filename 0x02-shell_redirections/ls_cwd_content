@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 med med 4096 Jun 19 12:47 .
+drwxrwxr-x 6 med med 4096 Jun 19 11:03 ..
+-rwxrw-r-- 1 med med   32 Jun 19 11:05 0-hello_world
+-rwxrw-r-- 1 med med   28 Jun 19 11:29 1-confused_smiley
+-rwxrw-r-- 1 med med   28 Jun 19 11:33 2-hellofile
+-rwxrw-r-- 1 med med   39 Jun 19 11:34 3-twofiles
+-rwxrw-r-- 1 med med   29 Jun 19 11:36 4-lastlines
+-rwxrw-r-- 1 med med   29 Jun 19 11:38 5-firstlines
+-rwxrw-r-- 1 med med   36 Jun 19 11:46 6-third_line
+-rwxrw-r-- 1 med med   97 Jun 19 12:24 7-file
+-rwxrw-r-- 1 med med   35 Jun 19 12:47 8-cwd_state
+-rw-rw-r-- 1 med med   11 Jun 19 12:24 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 med med  801 Jun 19 11:40 iacta
+-rw-rw-r-- 1 med med    0 Jun 19 12:47 ls_cwd_content
+-rw-rw-r-- 1 med med   26 Jun 19 11:04 README.md
